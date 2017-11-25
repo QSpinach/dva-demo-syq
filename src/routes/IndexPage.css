@@ -1,0 +1,100 @@
+
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 1em;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+
+.welcome {
+  height: 328px;
+  background: url(../assets/yay.jpg) no-repeat center 0;
+  background-size: 388px 328px;
+}
+
+.list {
+  font-size: 1.2em;
+  margin-top: 1.8em;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.list code {
+  background: #f7f7f7;
+}
+.ant-menu-horizontal>.ant-menu-item>a, .ant-menu-horizontal>.ant-menu-submenu>a {
+    display: inline-block !important;
+}
+.carousel{
+    margin-bottom: 10px;
+}
+.carousel img {
+    width: 400px;
+    height: 260px;
+}
+.container{
+  padding: 10px;
+}
+.leftContainer{
+  width: 400px;
+  float: left;
+}
+.tabs_news {
+    padding-left: 10px;
+    width: 460px;
+    float: left;
+}
+.topNewsList {
+    width: 100%;
+    float: left;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.topNewsList a {
+    line-height: 22px !important;
+    color: #666 !important;
+}
+
+.tabs_news {
+    padding-right: 1px;
+    width: 451px;
+    float: left;
+}
+
+.tabs_product {
+    width: 273px;
+    padding-left: 10px;
+    float: left;
+}
+
+.tabs_news li {
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 417px;
+    float: left;
+    text-overflow: ellipsis;
+}
+
+.tabs_product li {
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 257px;
+    text-overflow: ellipsis;
+}
+.main{
+  flex: inherit;
+}

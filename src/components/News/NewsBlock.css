@@ -1,0 +1,19 @@
+/*
+* @Author: syq
+* @Date:   2017-11-21 20:54:09
+* @Last Modified by:   syq
+* @Last Modified time: 2017-11-22 15:56:05
+*/
+.topNewsList {
+    width: 100%;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    clear: both
+}
+
+.topNewsList a {
+    line-height: 22px !important;
+    color: #666 !important;
+}

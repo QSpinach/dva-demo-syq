@@ -1,0 +1,21 @@
+/*
+* @Author: syq
+* @Date:   2017-11-22 15:58:56
+* @Last Modified by:   syq
+* @Last Modified time: 2017-11-22 19:24:56
+*/
+.topNewsList{
+  clear: both;
+  width: 100%;
+}
+.imageblock {
+    float: left;
+}
+
+.customCard {
+    padding: 5px;
+}
+
+.customCard p {
+    color: #999;
+}

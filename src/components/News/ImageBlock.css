@@ -1,0 +1,15 @@
+/*
+* @Author: syq
+* @Date:   2017-11-22 19:54:11
+* @Last Modified by:   syq
+* @Last Modified time: 2017-11-22 20:14:59
+*/
+.box{
+  clear:both;
+  width: 100%;
+    float: left;
+    text-align: left;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
